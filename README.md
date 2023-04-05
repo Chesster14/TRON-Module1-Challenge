@@ -41,7 +41,7 @@ Create my own title. For our example  “Tron Mod One”.
   # Tron Module1 Challenge Webpage
 Next, ## in markdown is a subheading. We have several subheadings in this README.
 
-For ## Description, write a short description of the Prework Study Guide Webpage. Use the guiding questions to help you.
+For ## Description, write a short description of the TRON-Module1-Challenge Webpage. Use the guiding questions to help you.
 
 
 # TRON-Module1-Challenge
